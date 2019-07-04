@@ -1,0 +1,9 @@
+coverage:
+  range: 50..100
+  status:
+    patch:
+      default:
+        threshold: 50%
+    project:
+      default:
+        threshold: 0.1%

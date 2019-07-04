@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Localization Guide</string>
+    <string name="this_is_my_first_android_localization_project">Ceci est mon premier projet de localisation Android!</string>
+</resources>
